@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWorkItemFetcher", "ConsoleWorkItemFetcher\ConsoleWorkItemFetcher.csproj", "{7C36FC72-C92B-4662-90DE-C7DBC2969DF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWorkItemFetcher.Entities", "ConsoleWorkItemFetcher.Entities\ConsoleWorkItemFetcher.Entities.csproj", "{87E32573-248B-42AF-830F-DC8308E94F52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C36FC72-C92B-4662-90DE-C7DBC2969DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C36FC72-C92B-4662-90DE-C7DBC2969DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C36FC72-C92B-4662-90DE-C7DBC2969DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C36FC72-C92B-4662-90DE-C7DBC2969DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87E32573-248B-42AF-830F-DC8308E94F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E32573-248B-42AF-830F-DC8308E94F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E32573-248B-42AF-830F-DC8308E94F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E32573-248B-42AF-830F-DC8308E94F52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

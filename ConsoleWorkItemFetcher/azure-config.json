@@ -1,0 +1,6 @@
+﻿{
+    "AzureData": {
+        "PersonalAccessToken": "your-personal-access-token",
+        "Url": "https://dev.azure.com/your-org-name"
+    }
+}
